@@ -1,6 +1,6 @@
 # ESP32_SCRIPTS
 ### Project for integrating some scripts interpreter in one ESP32 <br>
-Script interpreter inside: <br>
+Script interpreters inside: <br>
 1) Arduino TinyScript (Total Spectrum 2019)<br>
    https://github.com/EternityForest/arduinoscript<br>
 2) TinyBasicPlus V0.15<br>
