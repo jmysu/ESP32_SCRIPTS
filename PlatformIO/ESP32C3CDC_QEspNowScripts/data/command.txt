@@ -1,0 +1,7 @@
+#Show info
+info
+#Show pin setting in NVS
+nvspin
+#Show internal temperature
+temp
+#End of command.txt
